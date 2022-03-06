@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        android:id="@+id/g1">
+        <item android:id="@+id/inbox"
+            android:icon="@drawable/baseline_inbox_black_24"
+            android:title="@string/inbox"/>
+
+        <item android:id="@+id/sent"
+            android:title="@string/sent"
+            android:icon="@drawable/baseline_send_black_24"/>
+
+        <item android:id="@+id/starred"
+            android:title="Starred"
+            android:icon="@drawable/ic_baseline_star_24"/>
+
+    </group>
+
+    <group android:id="@+id/g2"
+        android:checkableBehavior="single">
+
+        <item android:id="@+id/profile"
+            android:title="@string/profile"
+            android:icon="@drawable/baseline_person_black_24"/>
+        <item android:id="@+id/password"
+            android:title="Change Password"
+            android:icon="@drawable/ic_baseline_https_24"/>
+        <item android:id="@+id/signout"
+            android:title="Sign Out"
+            android:icon="@drawable/ic_baseline_exit_to_app_24"/>
+
+    </group>
+
+
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "277546704238",
+    "project_id": "emailclient-59991",
+    "storage_bucket": "emailclient-59991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277546704238:android:8100ee02f89b42fdd4b57f",
+        "android_client_info": {
+          "package_name": "vn.edu.usth.email2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277546704238-vjrj2t00ijvf1drdieaf3i5ol033tgmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdlF5f-Yea_KTcnfYFp_fz8J_eYG2MoOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277546704238-vjrj2t00ijvf1drdieaf3i5ol033tgmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
